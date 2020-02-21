@@ -1,2 +1,2 @@
 # Museum-simulation
-Sistem Analizi ve Tasarımı Projesi
+Museum information system has been developed in this project
